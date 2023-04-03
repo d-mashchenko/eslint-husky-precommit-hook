@@ -13,6 +13,7 @@
   "rules": {
     "import/no-extraneous-dependencies": ["error", { "devDependencies": true }],
     "react/react-in-jsx-scope": "off",
-    "jsx-quotes": "off"
+    "jsx-quotes": "off",
+    "linebreak-style": "off"
   }
 }
